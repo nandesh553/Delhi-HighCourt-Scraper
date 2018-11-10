@@ -1,0 +1,5 @@
+scrapy
+scrapy-splash
+requests
+lxml
+bs4

@@ -1,0 +1,680 @@
+{
+    "case": {
+        "advocate": "CHETAN  LOKUR", 
+        "case_number": "9", 
+        "case_type": "ARB. A.  COMM.", 
+        "case_year": "2018", 
+        "petitioner": "FATIMA LOBO & ANR.", 
+        "respondent": "Vs.\u00a0\u00a0 JULIA CARMEN DESA & ORS."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "11/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "RAM PAL SINGH", 
+        "case_number": "8", 
+        "case_type": "ARB. A.  COMM.", 
+        "case_year": "2018", 
+        "petitioner": "SHREE TIRUPATHI UDYOG", 
+        "respondent": "Vs.\u00a0\u00a0 INDRAPRASTHA GAS LIMITED"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "01/03/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "SANDEEP  CHATTERJEE", 
+        "case_number": "6", 
+        "case_type": "ARB. A.  COMM.", 
+        "case_year": "2018", 
+        "petitioner": "CENTRE FOR DEVELOPMENT OF TELEMATICS", 
+        "respondent": "Vs.\u00a0\u00a0 XALTED INFORMATION SYSTEMS PVT. LTD."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "11/04/2018", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "AMAN SANJIV VARMA", 
+        "case_number": "5", 
+        "case_type": "ARB. A.  COMM.", 
+        "case_year": "2018", 
+        "petitioner": "MEJA URJA NIGAM PVT LTD", 
+        "respondent": "Vs.\u00a0\u00a0 RATNA INFRASTRUCTURE PROJECTS PVT LTD."
+    }, 
+    "court_details": {
+        "court_no": "19", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "07/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "SUMEET KUMAR MANIKTALA", 
+        "case_number": "4", 
+        "case_type": "ARB. A.  COMM.", 
+        "case_year": "2018", 
+        "petitioner": "M/S GUPTA BROS. (INDIA)", 
+        "respondent": "Vs.\u00a0\u00a0 INDIA TOURISM DEVELOPMENT CORPORATION LTD."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "22/03/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "TISHAMPATI  SEN", 
+        "case_number": "18", 
+        "case_type": "ARB. A.  COMM.", 
+        "case_year": "2018", 
+        "petitioner": "SHABNAM DHILLON", 
+        "respondent": "Vs.\u00a0\u00a0 ZEE ENTERTAINMENT ENTERPRISES LTD.  & ORS."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "02/07/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "KIRAT SINGH NAGRA", 
+        "case_number": "17", 
+        "case_type": "ARB. A.  COMM.", 
+        "case_year": "2018", 
+        "petitioner": "GREEN INFRA WIND ENERGY LIMITED,", 
+        "respondent": "Vs.\u00a0\u00a0 REGEN POWERTECH PRIVATE LIMITED,"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "04/04/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "ANKUR  MITTAL", 
+        "case_number": "16", 
+        "case_type": "ARB. A.  COMM.", 
+        "case_year": "2018", 
+        "petitioner": "NATIONAL HIGHWAY AUTHORITY OF INDIA", 
+        "respondent": "Vs.\u00a0\u00a0 M/S BARASAT KRISHNAGAR EXPRESSWAYS LIMITED"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "23/03/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "BASA MITHUN SHASHANK", 
+        "case_number": "167", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "MORAN PLANTATION PVT.LTD", 
+        "respondent": "Vs.\u00a0\u00a0 AMBIENCE PRIVATE LTD"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "28/02/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "BASA MITHUN SHASHANK", 
+        "case_number": "166", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "MILI MARKETING PVT.LTD", 
+        "respondent": "Vs.\u00a0\u00a0 AMBIENCE PRIVATE LTD"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "28/02/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "AVINASH KUMAR TRIVEDI", 
+        "case_number": "165", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "ANIL MEHTA", 
+        "respondent": "Vs.\u00a0\u00a0 THE GENERAL MANAGER, NORTHERN RAILWAY"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "13/04/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "ZAKIR  HUSAIN", 
+        "case_number": "164", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "HINT ADVERTISING", 
+        "respondent": "Vs.\u00a0\u00a0 21ST CENTURY & ANR."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "15/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "BASA MITHUN SHASHANK", 
+        "case_number": "163", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "PARASRAMIKA HOLDINGS PVT LTD.", 
+        "respondent": "Vs.\u00a0\u00a0 AMBIENCE PRIVATE LTD"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "28/02/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "DHRUV  DEWAN", 
+        "case_number": "162", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "INDIAN OIL CORPORATION LIMITED", 
+        "respondent": "Vs.\u00a0\u00a0 ESSAR OIL LIMITED THROUGH ITS DIRECTOR"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": "Defective"
+    }
+}
+{
+    "case": {
+        "advocate": "RITA  RANA", 
+        "case_number": "161", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "MANMOHAN LAL ARORA", 
+        "respondent": "Vs.\u00a0\u00a0 AIRCEL LIMITED & ANR."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "07/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "PRAVEEN  MAHAJAN", 
+        "case_number": "160", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "AKANSHA GUPTA & ANR .", 
+        "respondent": "Vs.\u00a0\u00a0 MIS ECNON RESIDENCY BUILDCON PVT. LTD."
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "22/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "RANJANA ROY GAWAI", 
+        "case_number": "182", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "NINANIYA ESTATES LIMITED", 
+        "respondent": "Vs.\u00a0\u00a0 APARAJITA ENGICON PVT. LTD"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "06/04/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "AADITYA VIJAY KUMAR", 
+        "case_number": "181", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "TECHNOSAT COMM ( INDIA) PVT.LTD", 
+        "respondent": "Vs.\u00a0\u00a0  BHARAT SANCHAR NIAGAM LTD."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "09/03/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "AMIT KUMAR MISHRA", 
+        "case_number": "180", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "ZOSTEL HOSPITALITY PRIVATE LIMITED", 
+        "respondent": "Vs.\u00a0\u00a0 ORAVEL STAYS PRIVATE LIMITED"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "27/04/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "CHEITANYA  MADAN", 
+        "case_number": "18", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "STESALIT SYSTEMS LIMITED", 
+        "respondent": "Vs.\u00a0\u00a0 REC POWER DISTRIBUTION COMPANY LIMITED"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "11/04/2018", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "VARUN KUMAR CHOPRA", 
+        "case_number": "179", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "GAIL (INDIA) LTD.", 
+        "respondent": "Vs.\u00a0\u00a0 M/S BHILOSA INDUSTRIES PVT LTD."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "02/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "MRINAL  BHARTI", 
+        "case_number": "178", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "M/S CHECKMATE SERVICES PRIVATE LIMITED", 
+        "respondent": "Vs.\u00a0\u00a0 M/S QUIPPO OIL AND GAS INFRASTRUCTURE LIMITED.,"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "VIVEKANAND", 
+        "case_number": "177", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "DIGVIJAY SANITATION", 
+        "respondent": "Vs.\u00a0\u00a0 DELHI JAL BOARD  & ANR."
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "12/04/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "KAILASH  CHANDRA", 
+        "case_number": "176", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "IDI DESIGNS PVT. LTD.", 
+        "respondent": "Vs.\u00a0\u00a0 ULTRACONFIDENTIEL DESIGN PVT. LTD."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "02/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "KAILASH  CHANDRA", 
+        "case_number": "175", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "IDI DESIGNS PVT. LTD.", 
+        "respondent": "Vs.\u00a0\u00a0 ULTRACONFIDENTIEL DESIGN PVT. LTD."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "02/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "SHIVA SANTANAM SWAMINADHAN", 
+        "case_number": "174", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "MUKESH & ASSOCIATES", 
+        "respondent": "Vs.\u00a0\u00a0 UNION OF INDIA"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "16/03/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "ZARTAB  ANWAR", 
+        "case_number": "173", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "RELIABLE AGRO FOODS & ORS.", 
+        "respondent": "Vs.\u00a0\u00a0 AL-NAFEES FROZEN FOOD EXPORTS PVT. LTD"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "06/03/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "KOCHHAR & CO.", 
+        "case_number": "172", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "BHUPENDER LAL GHAI", 
+        "respondent": "Vs.\u00a0\u00a0 CROWN BUILDTECH PRIVATE LIMITED"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "18/04/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "SHIVA SANTANAM SWAMINADHAN", 
+        "case_number": "171", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "MUKESH & ASSOCIATES", 
+        "respondent": "Vs.\u00a0\u00a0 UNION OF INDIA"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "06/03/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "RAJESH  KUMAR", 
+        "case_number": "170", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "P.E.C. LIMITED", 
+        "respondent": "Vs.\u00a0\u00a0 METKORE ALLOYS & INDUSTRIES LTD. & ORS."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "10/04/2018", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "SIDDHARTH  SHARMA", 
+        "case_number": "169", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "KIRAN INFRA ENGINEERS LIMITED", 
+        "respondent": "Vs.\u00a0\u00a0 NORTHERN RAILWAYS"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "24/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "KNM & PARTNERS, LAW OFFICES", 
+        "case_number": "168", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "DNS ELECTRONICS PRIVATE LTD.", 
+        "respondent": "Vs.\u00a0\u00a0 HAICHENG VIVO MOBILE (INDIA) PRIVATE LIMITED"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "11/04/2018", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "BRAJESH  KUMAR", 
+        "case_number": "159", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "GUJARAT PRAIBHA JOHNSON OMT-2 PRIVATE LIMITED", 
+        "respondent": "Vs.\u00a0\u00a0 AXIS BANK LTD."
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "05/04/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "LOVKESH  SAWHNEY", 
+        "case_number": "158", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "M/S APEX BUILDSYS LIMITED (PREVIOUSLY AS M/S ERA B", 
+        "respondent": "Vs.\u00a0\u00a0 NATIONAL AUTOMOTIVE TESTING AND R & D INFRASTRUCTU"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "10/05/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "JASMINE  DAMKEWALA", 
+        "case_number": "157", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "THERMO FISHER SCIENTIFIC INDIA PVT L TO", 
+        "respondent": "Vs.\u00a0\u00a0 EAST POINT DISTRIBUTION COMPANY (EPDC) & ANR."
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "", 
+        "last_date": "10/04/2018", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "PARTH  KAUSHIK", 
+        "case_number": "156", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "HELP ON WHEELS PVT. LTD.", 
+        "respondent": "Vs.\u00a0\u00a0 GIRNAR SOFTWARE PVT.LTD."
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "03/04/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "ADITYA  KAPOOR", 
+        "case_number": "155", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "JOGINDER SINGH CHOUDHARY (J.S. CHOUDHARY) & ANR.", 
+        "respondent": "Vs.\u00a0\u00a0 SUKHVIR SINGH CHOUDHARY"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "", 
+        "last_date": "", 
+        "next_date": "23/04/2018", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "SIDDHARTH  GARG", 
+        "case_number": "154", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "PRAVIN SINGH CHAUHAN", 
+        "respondent": "Vs.\u00a0\u00a0 DELHI TRANSCO LIMITED"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "", 
+        "last_date": "11/04/2018", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "R.  SUDHINDER", 
+        "case_number": "153", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "ITD CEMENTATION INDIA LIMITED", 
+        "respondent": "Vs.\u00a0\u00a0 RAIL VIKAS NIGAM LIMITED"
+    }, 
+    "court_details": {
+        "court_no": "14", 
+        "disposed_date": "02/04/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
+{
+    "case": {
+        "advocate": "RAJASREE  AJAY", 
+        "case_number": "152", 
+        "case_type": "ARB.P.", 
+        "case_year": "2018", 
+        "petitioner": "UPAKAR SINGH SAWHNEY", 
+        "respondent": "Vs.\u00a0\u00a0 DELHI DEVELOPMENT AUHORITY"
+    }, 
+    "court_details": {
+        "court_no": "20", 
+        "disposed_date": "06/04/2018", 
+        "last_date": "", 
+        "next_date": "", 
+        "status": ""
+    }
+}
